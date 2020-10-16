@@ -8,10 +8,6 @@ tags:
  - vsensor
 ---
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css">
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/github-markdown-css/2.2.1/github-markdown.css"/>
-
 ## 一、实验目的
 1.了解若干种交通量调查工具的工作原理；   
 2.认识并掌握不同场景下交通量调查的观测手段与方法；  
