@@ -6,6 +6,9 @@ set -e
 # 生成静态文件
 npm run docs:build
 
+# 复制一份图片
+cp -rf docs/pic/ docs/.vuepress/dist/pic/
+
 # 进入生成的文件夹
 cd docs/.vuepress/dist
 

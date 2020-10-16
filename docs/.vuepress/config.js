@@ -16,5 +16,16 @@ module.exports = {
         text: 'Tag'      // 默认文案 “标签”
       }
     }
-  }
+  },
+  plugins: [
+    [
+      'vuepress-plugin-mathjax',
+      {
+        target: 'svg',
+        // macros: {
+        //   '*': '\\times',
+        // },
+      },
+    ],
+  ]
 }
