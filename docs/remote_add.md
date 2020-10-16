@@ -9,14 +9,6 @@ tags:
 
 ---
 
-:::details
-参考链接：
-
-一份代码怎么在两处地方做代码管理？ - 燕南的回答 - 知乎 https://www.zhihu.com/question/28563469/answer/41284272
-:::
-
-
-
 GitHub Pages 最近在境内访问不了了，所以把页面托管到了Gitee上，虽然Gitee Pages每次上传都要手动更新，但是上传和访问速度也快了不少。
 
 写博客，不想局限在一台终端上，于是想用git来管理这个vuepress项目，最方便的办法是在gitee的blog库上新建一个source分支用来管理，我也是这么做的。
@@ -96,3 +88,8 @@ git pull origin master
 ```
 
 会从两个 GitHub repo1 里取得更新。
+
+
+::: details 参考链接
+一份代码怎么在两处地方做代码管理？ - 燕南的回答 - 知乎 https://www.zhihu.com/question/28563469/answer/41284272
+:::
