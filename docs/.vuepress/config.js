@@ -1,6 +1,5 @@
 module.exports = {
   theme: 'reco',
-  base: "/blog/",
   themeConfig: {
     // 博客配置
     nav: [
