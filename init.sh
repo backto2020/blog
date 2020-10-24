@@ -1,5 +1,5 @@
 
 # npm组件下载
-npm install vuepress
-npm install vuepress-theme-reco
-npm install vuepress-plugin-mathjax
+npm install -D vuepress
+npm install -D vuepress-theme-reco
+npm install -D vuepress-plugin-mathjax
