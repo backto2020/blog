@@ -2,7 +2,7 @@
 title: ZONE A
 date: 2020-9-1 00:00:00
 categories:
- - Chat
+ - 随笔
 tags:
  - chat
 ---

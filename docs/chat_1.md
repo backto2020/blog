@@ -2,7 +2,7 @@
 title: 给终点以道路，而不是给道路以终点。
 date: 2020-10-24 00:00:00
 categories:
- - Chat
+ - 随笔
 tags:
  - chat
 ---

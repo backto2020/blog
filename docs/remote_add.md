@@ -2,7 +2,7 @@
 title: 为 git 同时添加两个远程仓库
 date: 2020-10-16 17:36:00
 categories:
- - Git
+ - 开发
 tags:
  - git
  - git remote
