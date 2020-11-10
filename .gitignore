@@ -5,3 +5,4 @@ package-lock.json
 Thumbs.db
 db.json
 *.log
+draft/
