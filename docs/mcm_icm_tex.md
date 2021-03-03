@@ -2,7 +2,7 @@
 title: 数模LaTeX模版踩坑记录
 date: 2021-02-03 00:00:00
 categories:
- - 暂未分类
+ - 未分类
 tags:
  - latex
 ---
